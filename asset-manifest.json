@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/inlinereactapp.github.io.git/static/js/main.dbc40762.js",
+    "static/js/787.7cd695f4.chunk.js": "/inlinereactapp.github.io.git/static/js/787.7cd695f4.chunk.js",
+    "index.html": "/inlinereactapp.github.io.git/index.html",
+    "main.dbc40762.js.map": "/inlinereactapp.github.io.git/static/js/main.dbc40762.js.map",
+    "787.7cd695f4.chunk.js.map": "/inlinereactapp.github.io.git/static/js/787.7cd695f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbc40762.js"
+  ]
+}
