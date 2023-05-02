@@ -2,7 +2,7 @@
   "name": "inline-style-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Brijesh1990/inlinereactapp.github.io.git",
+  "homepage": "https://brijesh1990.github.io/inlinereactapp.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
